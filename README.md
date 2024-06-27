@@ -1,6 +1,3 @@
-
-markdown
-
 # Homebridge iMow Plugin
 
 ## Übersicht
